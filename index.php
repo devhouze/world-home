@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'include/header.php'; ?>
 
 <div class="main-slider mobile-slider d-md-none d-block">
     <div class="substract-img">
@@ -410,4 +410,4 @@
         </div>
     </div>
 </div>
-<?php include 'footer.php'; ?>
+<?php include 'include/footer.php'; ?>

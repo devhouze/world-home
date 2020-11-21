@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'include/header.php'; ?>
 <style>
     .header-thanks {
         background-color: #F8EABE;
@@ -37,4 +37,4 @@
         </div>
     </div>
 </div>
-<?php include 'footer.php'; ?>
+<?php include 'include/footer.php'; ?>
