@@ -252,7 +252,7 @@
         smartSpeed: 1000,
         margin: 5,
         nav: true,
-        navText: ["<img src='images/right.png'>", "<img src='images/left.png'>"],
+        navText: ["<img src='images/left.svg'>", "<img src='images/left.svg'>"],
         responsive: {
             0: {
                 items: 1

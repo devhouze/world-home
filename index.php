@@ -83,7 +83,7 @@
             <div class="col-md-12">
                 <h2 class="pr-font d-md-block d-none"><span class="d-md-inline d-block">World Homes</span> - FROM THE SUCCESSFUL CONCEPT OF WORLD STREET</h2>
                 <h3 class="pr-font d-md-none d-table mx-auto text-center">World Homes <span>FROM THE SUCCESSFUL CONCEPT OF WORLD STREET</span></h3>
-                <p>Omaxe World Street - New Faridabad, gave people an opportunity to explore the world at one place. Today, World Street is one of the most popular shopping destinations in Delhi NCR and a landmark in itself. Now, with World Homes people will get to experience a ‘Truly Global Living’ in the crux of New Faridabad, the new epicentre of growth & prosperity.  
+                <p>Omaxe World Street - New Faridabad, gave people an opportunity to explore the world at one place. Today, World Street is one of the most popular shopping destinations in Delhi NCR and a landmark in itself. Now, with World Homes people will get to experience a ‘Truly Global Living’ in the crux of New Faridabad, the new epicentre of growth & prosperity.
                 </p>
             </div>
         </div>
@@ -93,16 +93,25 @@
     <div class="container-lg">
         <div class="row d-flex ">
             <div class="col-md-6 order-md-1 order-2">
-                <div class="wh-logo ">
-                    <img src="images/slider-logo.png" alt="">
+
+                <div class="d-inline-block mt-4">
+                    <img src="images/top-smg.svg" alt="" class="d-table mx-auto">
+                    <h3 class="pr-font">World <span>Homes</span></h3>
+                    <img src="images/bottom.svg" alt="" class="d-table mx-auto">
                 </div>
-                <h3 class="pr-font">World Homes</h3>
                 <p>World Homes is an architectural masterpiece inspired by the rich history of the world’s greatest cities. Located in the heart of New Faridabad, World Homes is the epitome of sculptured elegance and is going to be a statement for a luxurious lifestyle.
                 </p>
                 <a href="javascript:void(0)" data-toggle="modal" data-target="#knowmoremodal">KNOW MORE</a>
             </div>
-            <div class="col-md-6 order-md-2 order-1">
-                <div class="owl-carousel owl-theme owl-carousel-single">
+            <div class="col-md-6 order-md-2 order-1 position-relative">
+                <div class="top-right">
+                    <img src="images/top-right.svg" alt="">
+                </div>
+                <div class="bottom-right">
+                    <img src="images/bottom-right.svg" alt="">
+                </div>
+                <div class="owl-carousel owl-theme owl-carousel-single position-relative">
+
                     <div class="item">
                         <img src="images/hs1.jpg" alt="">
                     </div>
@@ -126,8 +135,10 @@
 </div>
 <div class="omex-bright" id="omex-bright">
     <div class="container-lg">
-        <div class="row">
-            <div class="col-md-6">
+        <div class="row"> 
+            <div class="col-md-6 positon-relative">
+                <div class="left-top"><img src="images/left-top.svg" alt=""></div>
+                <div class="left-bottom"><img src="images/left-bottom.svg" alt=""></div>
                 <div class="owl-carousel owl-theme owl-carousel-single">
                     <div class="item">
                         <img src="images/om1.jpg" alt="">
@@ -149,8 +160,8 @@
             </div>
             <div class="col-md-6">
                 <div class="px-lg-5 px-md-3 px-0">
-                    <h4 class="pr-font">Omaxe City brings</h4>
-                    <h5 class="pr-font">World Inspired Architecture & Elegant Lifestyle</h5>
+                    
+                    <h5 class="pr-font">World Inspired Architecture <span>&</span> Elegant Lifestyle</h5>
                     <p>Inspired by the art, culture, & architecture from around the world, World Homes is a confluence of a complete global lifestyle. The project is equipped with sculptures that tell the most remarkable stories of humankind to signages unique to every family making the dream come true of the modern connoisseur.
                     </p>
                 </div>
@@ -172,11 +183,16 @@
         </div>
     </div>
 </div>
-<div class="rating">
+<div class="rating position-relative">
+    <div class="absolute-circle">
+        <img src="images/circle.svg" alt="">
+    </div>
     <div class="container-lg">
         <div class="row">
             <div class="col-md-8">
-                <h1 class="pr-font">Recreating the London Magic</h1>
+                <h1 class="pr-font position-relative">Recreating the <span>London</span> Magic
+                <img src="images/book.svg" alt="">
+            </h1>
                 <p>In an endeavour to recreate the magic of London, World Homes brings together the art, culture, and aesthetics in the homes & surroundings with iconic guards, street lights, arches, gazebos and more.</p>
 
             </div>
@@ -246,6 +262,9 @@
     </div>
 </div>
 <div class="gallary" id="gallary">
+    <div class="clock-img">
+        <img src="images/clock.svg" alt="">
+    </div>
     <div class="container-lg">
         <div class="row">
             <div class="col-md-12">
@@ -298,6 +317,7 @@
     </div>
 </div>
 <div class="about-us" id="new-faridabad">
+    <div class="bin"><img src="images/bin.svg" alt=""></div>
     <div class="container-lg">
         <div class="row">
             <div class="col-md-6">
