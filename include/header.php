@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-<title>World Homes</title>
+    <title>World Homes</title>
 </head>
 
 <body>
@@ -21,10 +21,10 @@
                         <div class="pos-f-t">
                             <nav class="navbar px-0">
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span></span>
-            <span></span>
-            <span></span>
-          </button>
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </button>
                                 <a href="index.php" class="logols">
                                     <img src="images/logo.png" alt="">
                                     <img src="images/logo2.png" class="stickylogo" alt="">
@@ -50,9 +50,14 @@
                                         <a class="nav-link" href="#about-omx-grp">About Omaxe Group</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#new-faridabad">Contact Us</a>
+                                        <a class="nav-link cnc-btn" href="#new-faridabad">Contact Us</a>
                                     </li>
                                 </ul>
+                                <div class="d-flex justify-content-between px-3 pb-2 mt-5">
+                                    <img src="images/menu1.svg" alt="">
+                                    <img src="images/menu2.svg" alt="">
+
+                                </div>
 
                             </div>
 
@@ -61,7 +66,7 @@
                     <nav class="navbar navbar-expand-lg px-0 py-0 d-xl-flex d-none">
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
-                          </button>
+                        </button>
                         <a class="navbar-brand" href="index.php">
                             <img src="images/logo.png" alt="">
                             <img src="images/logo2.png" class="stickylogo" alt="">
@@ -91,6 +96,7 @@
                             <div class="cont-btn">
                                 <a href="#contact-us">CONTACT US</a>
                             </div>
+
 
                         </div>
                     </nav>

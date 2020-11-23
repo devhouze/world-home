@@ -27,7 +27,7 @@
                 <img src="images/s-mob1.jpg" alt="" class="w-100">
 
             </div>
-            >
+           
             <div class="carousel-item">
                 <img src="images/s-mob3.jpg" alt="" class="w-100">
 
@@ -94,7 +94,7 @@
         <div class="row d-flex ">
             <div class="col-md-6 order-md-1 order-2">
 
-                <div class="d-inline-block mt-4">
+                <div class="d-md-inline-block mt-4 ">
                     <img src="images/top-smg.svg" alt="" class="d-table mx-auto">
                     <h3 class="pr-font">World <span>Homes</span></h3>
                     <img src="images/bottom.svg" alt="" class="d-table mx-auto">
@@ -199,7 +199,7 @@
         </div>
         <div class="row">
             <div class="col-md-2"></div>
-            <div class="col-md-9 col-sm-12 col-12 ">
+            <div class="col-md-9 col-sm-9 col-12 mx-auto">
                 <div class="owl-carousel owl-theme-new multislide">
                     <div class="item">
                         <div class="card">
@@ -385,7 +385,7 @@
 <div class="contact-us" id="contact-us">
     <div class="container-lg">
         <div class="row d-flex ">
-            <div class="col-md-6 pr-0 d-flex flex-fill">
+            <div class="col-md-6 pr-md-0 d-flex flex-fill">
                 <div class="contact-form d-flex flex-fill flex-column aling-items-start">
                     <h5 class="text-center pr-font">Contact Us</h5>
                     <form action="">
