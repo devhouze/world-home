@@ -159,13 +159,13 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="px-lg-5 px-md-3 px-0">
+                <div class="px-lg-4 px-md-3 pl-0">
                     
                     <h5 class="pr-font">World Inspired Architecture <span>&</span> Elegant Lifestyle</h5>
                     <p>Inspired by the art, culture, & architecture from around the world, World Homes is a confluence of a complete global lifestyle. The project is equipped with sculptures that tell the most remarkable stories of humankind to signages unique to every family making the dream come true of the modern connoisseur.
                     </p>
                 </div>
-                <div class="icon-group px-lg-5 px-md-3 px-0">
+                <div class="icon-group pl-lg-4 pl-md-3 pl-0">
                     <div class="d-flex flex-row justify-content-between pr-xl-5">
                         <div class="icbox d-flex flex-column aling-items-center"><img src="images/ic1.svg" alt="">
                             <p>Plots</p>

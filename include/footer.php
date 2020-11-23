@@ -46,11 +46,11 @@
         <div class="container-lg">
             <div class="row">
                 <div class="col-sm-6">
-                    <p>Copyright © 2020 | All Rights Reserved</p>
+                    <p class="pr-font">Copyright © 2020 | All Rights Reserved</p>
 
                 </div>
                 <div class="col-sm-6 justify-content-sm-end d-flex">
-                    <p><a href="https://www.propacity.in/?utm_source=omaxe-wh&utm_medium=lp&utm_campaign=omaxe_wh">Digital Media planned by <span>Propacity</span></a></p>
+                    <p class="pr-font"><a href="https://www.propacity.in/?utm_source=omaxe-wh&utm_medium=lp&utm_campaign=omaxe_wh">Digital Media planned by <span>Propacity</span></a></p>
                 </div>
             </div>
         </div>
