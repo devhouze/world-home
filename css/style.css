@@ -1772,4 +1772,7 @@ a.nav-link.cnc-btn {
         top: -12px;
         width: 70px;
     }
+    .world-home-slider a {
+        margin-bottom: 0 !important;
+    }
 }
