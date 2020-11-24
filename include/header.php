@@ -5,7 +5,9 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
     <link rel="stylesheet" href="css/style.css">
+    
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
@@ -29,7 +31,7 @@
                                     <img src="images/logo.png" alt="">
                                     <img src="images/logo2.png" class="stickylogo" alt="">
                                 </a>
-                                <a href="#"><img src="images/call.png" alt=""></a>
+                                <a href="#"><img src="images/call.svg" alt=""></a>
                             </nav>
                             <div class="collapse" id="navbarToggleExternalContent">
                                 <ul class="navbar-nav ml-auto">
