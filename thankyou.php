@@ -36,7 +36,7 @@
             <div class="col-md-12 d-flex flex-fill align-items-center justify-content-center flex-column">
                 <div class="umbr"><img src="images/umbrala.svg" alt=""></div>
                 <figure class=""><img src="images/topreb.svg" alt=""></figure>
-                <h1 class="pr-font mb-5 mt-3">Thank <span>You!</span></h1>
+                <h1 class="pr-font mb-md-5 mb-3 mt-md-3">Thank <span>You!</span></h1>
                 <h2 class="pr-font">An Expert will call you Soon.</h2>
                 <a href="index.php" class="pr-font">Go Back to Homepage</a>
                 <figure class="mt-4"><img src="images/bottomreb.svg" alt=""></figure>
