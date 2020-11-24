@@ -50,7 +50,7 @@
                                         <a class="nav-link" href="#about-omx-grp">About Omaxe Group</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link cnc-btn" href="#new-faridabad">Contact Us</a>
+                                        <a class="nav-link cnc-btn" href="#contact-id">Contact Us</a>
                                     </li>
                                 </ul>
                                 

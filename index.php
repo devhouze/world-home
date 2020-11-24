@@ -101,7 +101,7 @@
                 </div>
                 <p>World Homes is an architectural masterpiece inspired by the rich history of the world’s greatest cities. Located in the heart of New Faridabad, World Homes is the epitome of sculptured elegance and is going to be a statement for a luxurious lifestyle.
                 </p>
-                <a href="javascript:void(0)" data-toggle="modal" data-target="#knowmoremodal">KNOW MORE</a>
+                <a href="javascript:void(0)" class="pr-font" data-toggle="modal" data-target="#knowmoremodal">KNOW MORE</a>
             </div>
             <div class="col-md-6 order-md-2 order-1 position-relative">
                 <div class="top-right">
@@ -178,7 +178,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mx-5"><a href="javascript:void(0)" class="know more" data-toggle="modal" data-target="#knowmoremodal">KNOW MORE</a></div>
+                <div class="mx-5"><a href="javascript:void(0)" class="know more pr-font" data-toggle="modal" data-target="#knowmoremodal">KNOW MORE</a></div>
             </div>
         </div>
     </div>
@@ -386,7 +386,7 @@
     <div class="container-lg">
         <div class="row d-flex ">
             <div class="col-md-6 pr-md-0 d-flex flex-fill">
-                <div class="contact-form d-flex flex-fill flex-column aling-items-start">
+                <div class="contact-form d-flex flex-fill flex-column aling-items-start" id="contact-id">
                     <h5 class="text-center pr-font">Contact Us <img src="images/clogo.svg" class="clogo" alt=""></h5>
                     <form action="">
                         <div class="form-group">

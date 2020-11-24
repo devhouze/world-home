@@ -1700,9 +1700,9 @@ a.nav-link.cnc-btn {
     }
     .contact-form .form-group button {
         float: unset;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: 600;
-        padding: 12px 60px;
+        padding: 7px 60px;
         display: table;
         margin: 34px auto 30px!important
     }
