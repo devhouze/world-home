@@ -702,7 +702,7 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
 
 .about-us .row .col-md-6:nth-child(1) {
     background-image: url(../images/ulbg.svg);
-    background-size: 40%;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -1688,7 +1688,7 @@ a.nav-link.cnc-btn {
     .about-us .row .col-md-6:nth-child(1) {
         background-repeat: no-repeat;
         background-position: bottom;
-        background-size: 76%;
+        background-size: 100%;
     }
     .contact-us {
         padding-top: 18px;
@@ -1759,7 +1759,8 @@ a.nav-link.cnc-btn {
         width: 64px
     }
     .thankyou.min-vh-100.d-flex.flex-fill {
-        height: auto!important
+        min-height: auto!important;
+        padding: 100px 0px;
     }
     .thankyou h1 {
         font-size: 30px
@@ -1800,11 +1801,23 @@ a.nav-link.cnc-btn {
     .world-home-slider a {
         margin-bottom: 0 !important;
     }
-    .clock-th {
-        height: 400px;
+    .clock-th img {
+        height: 250px;
         bottom: 0;
+        left: 0
+    }
+    .clock-th {
+        left: 0;
+        bottom: 0;
+    }
+    .circle-th {
+        top: 0;
     }
     .circle-th img {
         height: 200px;
+    }
+    .umbr {
+        left: 0;
+        top: 16px;
     }
 }
