@@ -159,7 +159,8 @@ header .navbar {
     color: #634E42;
     margin-bottom: 30px;
     font-weight: 700;
-    letter-spacing: .03em
+    letter-spacing: .03em;
+    text-transform: uppercase;
 }
 
 .world-home h2 span {
@@ -203,6 +204,7 @@ header .navbar {
     margin-bottom: 0;
     color: #B93538;
     padding: 20px 0;
+    font-variant: small-caps;
 }
 
 .world-home-slider .top-right {
@@ -319,12 +321,12 @@ header .navbar {
 
 .omex-bright h5 {
     color: #B93538;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 50px;
     margin-bottom: 22px;
     font-weight: bold;
     letter-spacing: 0.1em;
-    text-transform: uppercase;
+    font-variant: small-caps;
 }
 
 .omex-bright h5 span {
@@ -352,7 +354,6 @@ header .navbar {
 
 a.know.more {
     background: white;
-    font-weight: 600;
     font-size: 16px;
     line-height: 40px;
     letter-spacing: .03em;
@@ -418,6 +419,7 @@ a.know.more:hover {
     margin-bottom: 40px;
     color: #B93538;
     letter-spacing: 0.1em;
+    font-variant: small-caps;
 }
 
 .rating h1 img {
@@ -557,6 +559,7 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     position: relative;
     overflow: hidden;
     width: 100%;
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 7%));
 }
 
 .gallary ul li:hover figure {
@@ -616,7 +619,8 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     font-size: 40px;
     line-height: 50px;
     letter-spacing: 0.1em;
-    margin-bottom: 53px
+    margin-bottom: 53px;
+    font-variant: small-caps;
 }
 
 .about-us ul li {
@@ -670,7 +674,7 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     font-weight: 700;
     color: #B93538;
     letter-spacing: 0.1em;
-    text-transform: uppercase;
+    font-variant: small-caps;
 }
 
 .about-us {
@@ -692,7 +696,7 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     line-height: 30px;
     color: #1B1919;
     margin-bottom: 36px;
-    margin-top: 30px;
+    margin-top: 36px;
     letter-spacing: 0.04em;
 }
 
@@ -704,7 +708,7 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
 }
 
 .contact-form {
-    padding: 78px 72px;
+    padding: 68px 72px;
     background-image: url(../images/contact-bg.svg);
     background-repeat: no-repeat;
     background-position: center;
@@ -717,6 +721,16 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     color: #B93538;
     margin-bottom: 30px;
     letter-spacing: 0.1em;
+    font-variant: small-caps;
+    position: relative;
+    margin-top: 20px;
+}
+
+img.clogo {
+    position: absolute;
+    left: 140px;
+    top: -40px;
+    bottom: 0;
 }
 
 .contact-form .form-group {
@@ -751,10 +765,11 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     margin-left: auto;
     margin-right: auto;
     background: #B93538;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: 600;
     letter-spacing: .03em;
     color: white;
-    padding: 12px 63px;
+    padding: 7px 108px;
     transition: 0.5s easy-in-out;
     transition: all 0.3s ease-in-out;
     border: 2px solid #B93538;
@@ -780,12 +795,14 @@ div#omex-bright .owl-carousel-single .owl-nav button.owl-next {
     font-weight: 700;
     margin-bottom: 40px;
     color: #69524D;
+    letter-spacing: 0.1em;
+    font-variant: small-caps;
 }
 
 .about-omx-grp p {
     color: #413737;
     font-size: 18px;
-    letter-spacing: .03em
+    letter-spacing: .04em
 }
 
 footer {
@@ -815,7 +832,7 @@ footer {
 }
 
 .menu li a {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 18px;
     line-height: 27px;
     color: #B93538;
@@ -926,12 +943,21 @@ footer p {
     margin-left: 20px
 }
 
+.contact-form .form-group textarea.form-control {
+    height: 50px;
+}
+
+.commonmodal .modal-dialog .modal-body textarea.form-control {
+    padding-bottom: 0 !important;
+}
+
 .commonmodal h2 {
     font-weight: 700;
     color: #B93538;
     margin-bottom: 0;
     font-size: 30px;
     letter-spacing: 0.1em;
+    font-variant: small-caps;
 }
 
 .commonmodal .modal-dialog {
@@ -1057,6 +1083,8 @@ div#navbarToggleExternalContent {
     right: 0;
     top: 100%;
     background: #FEFAFA;
+    padding-top: 20px;
+    padding-bottom: 20px
 }
 
 div#navbarToggleExternalContent ul li a {
@@ -1075,8 +1103,8 @@ div#navbarToggleExternalContent ul li {
 }
 
 div#navbarToggleExternalContent ul li a {
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 500;
 }
 
 .pos-f-t button:focus {
@@ -1099,7 +1127,7 @@ button.navbar-toggler span:nth-child(2) {
 }
 
 .stickylogo {
-    margin-left: 10px;
+    margin-left: 3px;
     transition: width 0.5s ease-in-out;
     opacity: 0;
 }
@@ -1228,7 +1256,7 @@ a.nav-link.cnc-btn {
     border: 1px solid #B93538;
     float: left;
     padding: 6px 34px !important;
-    font-size: 14px !important;
+    font-size: 18px !important;
     font-weight: 500 !important;
 }
 
@@ -1486,13 +1514,15 @@ a.nav-link.cnc-btn {
 }
 
 @media only screen and (max-width:480px) {
+    .contact-form {
+        border-right: 25px solid #fdf4f5;
+        border-left: 25px solid #fefafa;
+        padding: 25px 30px;
+    }
     .contact-form h5 {
         font-size: 24px;
         margin-top: 20px;
         margin-bottom: 20px;
-    }
-    .contact-form {
-        padding: 30px 0;
     }
     .bin img {
         height: 210px;
@@ -1516,7 +1546,7 @@ a.nav-link.cnc-btn {
         line-height: 0;
     }
     .absolute-circle img {
-        height: 250px;
+        height: 180px;
     }
     .absolute-circle {
         bottom: auto;
@@ -1633,11 +1663,11 @@ a.nav-link.cnc-btn {
     .about-us .row .col-md-6:nth-child(1) {
         background-repeat: no-repeat;
         background-position: bottom;
-        background-size: unset;
+        background-size: 76%;
     }
     .contact-us {
         padding-top: 18px;
-        padding-bottom: 50px
+        padding-bottom: 0px
     }
     .contact-form .form-group .form-control,
     .contact-form .form-group .form-control::placeholder {
@@ -1665,7 +1695,7 @@ a.nav-link.cnc-btn {
     .slider-content h1 {
         font-size: 26px;
         line-height: 45px;
-        font-weight: 800
+        font-weight: 600
     }
     .about-omx-grp {
         padding: 0
@@ -1701,7 +1731,7 @@ a.nav-link.cnc-btn {
         width: 120px
     }
     .sticky .stickylogo {
-        width: 52px
+        width: 64px
     }
     .thankyou.min-vh-100.d-flex.flex-fill {
         height: auto!important
@@ -1728,9 +1758,18 @@ a.nav-link.cnc-btn {
     }
     .lgogo-for-center img {
         display: table;
-        margin: 0 auto 50px auto
+        margin: 0 auto 0px auto
     }
     .slider-content h1 span {
-        font-weight: 600;
+        font-weight: 700;
+    }
+    .logo {
+        justify-content: center;
+    }
+    img.clogo {
+        position: absolute;
+        left: 30%;
+        top: -12px;
+        width: 70px;
     }
 }

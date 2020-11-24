@@ -80,7 +80,7 @@
                     <input type="text" class="form-control" placeholder="City*">
                 </div>
                 <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Message*">
+                <textarea type="text" placeholder="Your Message" class="form-control"></textarea>
                 </div>
                 <div class="form-group">
                     <button data-dismiss="modal">SUBMIT</button>
@@ -116,7 +116,8 @@
                     <input type="text" class="form-control" placeholder="City*">
                 </div>
                 <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Message*">
+                <textarea type="text" placeholder="Your Message" class="form-control" ></textarea>
+                
                 </div>
                 <div class="form-group">
                     <button data-dismiss="modal">SUBMIT</button>
@@ -216,7 +217,7 @@
 <script>
     $('.owl-carousel-single').owlCarousel({
         loop: true,
-        margin: 67,
+        margin: 0,
         smartSpeed: 1000,
         nav: false,
         autoplay: true,

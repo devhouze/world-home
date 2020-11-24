@@ -53,11 +53,7 @@
                                         <a class="nav-link cnc-btn" href="#new-faridabad">Contact Us</a>
                                     </li>
                                 </ul>
-                                <div class="d-flex justify-content-between px-3 pb-2 mt-5">
-                                    <img src="images/menu1.svg" alt="">
-                                    <img src="images/menu2.svg" alt="">
-
-                                </div>
+                                
 
                             </div>
 

@@ -387,7 +387,7 @@
         <div class="row d-flex ">
             <div class="col-md-6 pr-md-0 d-flex flex-fill">
                 <div class="contact-form d-flex flex-fill flex-column aling-items-start">
-                    <h5 class="text-center pr-font">Contact Us</h5>
+                    <h5 class="text-center pr-font">Contact Us <img src="images/clogo.svg" class="clogo" alt=""></h5>
                     <form action="">
                         <div class="form-group">
                             <input type="text" placeholder="Name" class="form-control">
@@ -402,7 +402,7 @@
                             <input type="text" placeholder="City" class="form-control">
                         </div>
                         <div class="form-group">
-                            <input type="text" placeholder="Your Message" class="form-control">
+                            <textarea type="text" placeholder="Your Message" class="form-control"></textarea>
                         </div>
                         <div class="form-group">
                             <button>SUBMIT</button>
@@ -421,7 +421,7 @@
     <div class="container-lg">
         <div class="row align-items-center">
             <div class="col-md-5">
-                <figure class="lgogo-for-center"><img src="images/omxlog.png" alt=""></figure>
+                <figure class="lgogo-for-center"><img src="images/omxlog.svg" alt=""></figure>
             </div>
             <div class="col-md-7">
                 <h3 class="pr-font">About Omaxe Group</h3>
